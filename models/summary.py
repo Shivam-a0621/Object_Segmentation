@@ -1,6 +1,6 @@
 import getpass
 import os
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 from  langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage
